@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the associated publication and this repository."
+title: "Huemul genome resources"
+abstract: >-
+  Bioinformatic scripts documenting the nuclear genome assembly, mitochondrial
+  genome assembly, annotation, and comparative/phylogenomic analyses of the
+  huemul (Hippocamelus bisulcus), associated with NCBI BioProject PRJNA1509444.
+type: software
+version: 1.0.0
+date-released: 2026-08-22
+license: MIT
+doi: 10.5281/zenodo.22063022   # DOI de esta versión del depósito Zenodo
+repository-code: "https://github.com/judeland/huemul-genome-pipeline"
+authors:
+  - family-names: Ousset
+    given-names: María Julia
+    affiliation: "CITAAC, CONICET-Universidad Nacional del Comahue, Neuquén, Argentina"
+  - family-names: Smith-Flueck
+    given-names: Jo Anne M.
+  - family-names: Flueck
+    given-names: Werner T.
+  - family-names: Pelufo
+    given-names: Valeria
+  - family-names: Aisen
+    given-names: Eduardo
+  - family-names: Venturino
+    given-names: Andrés
+keywords:
+  - Hippocamelus bisulcus
+  - huemul
+  - genome assembly
+  - Oxford Nanopore
+  - conservation genomics
+  - Cervidae
+preferred-citation:
+  type: article
+  title: "Genome Assembly of the Endangered Patagonian Deer Hippocamelus bisulcus (Huemul): The First Nuclear Genome for the Genus Hippocamelus"
+  year: 2026
+  authors:
+    - family-names: Ousset
+      given-names: María Julia
+    - family-names: Smith-Flueck
+      given-names: Jo Anne M.
+    - family-names: Flueck
+      given-names: Werner T.
+    - family-names: Pelufo
+      given-names: Valeria
+    - family-names: Aisen
+      given-names: Eduardo
+    - family-names: Venturino
+      given-names: Andrés
+  # doi: "10.xxxx/xxxxx"   # completar cuando esté publicado

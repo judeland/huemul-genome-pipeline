@@ -1,0 +1,56 @@
+# Working directories created by initialize_project_directory.sh
+reads/
+QC_reads/
+references/
+busco_downloads/
+Flye_assembly/
+Purge_dups/
+Medaka/
+Merqury/
+FCS_GX/
+Mitochondrial_screen/
+Length_filter/
+FCS_adaptor/
+RagTag/
+NCBI_submission/
+repeatmodeler/
+repeatmasker/
+lifton_output/
+agat_output/
+mitochondrial_assembly/
+mitochondrial_phylogeny/
+comparative_genomics/
+
+# Heavy bioinformatics outputs
+*.fasta
+*.fa
+*.fna
+*.faa
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.paf
+*.paf.gz
+*.gff
+*.gff3
+*.gz
+*.bed
+*.vcf
+*.vcf.gz
+
+# Logs and temp
+*.log
+logs/
+tmp/
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
