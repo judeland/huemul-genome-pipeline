@@ -70,7 +70,7 @@ bash initialize_project_directory.sh /path/to/huemul_genome_analysis
 - Assembly version described in the manuscript: JCCBWI010000000
 - Quality-filtered ONT reads: SRR40078882 (Shehuen) and SRR40078881 (Coirón)
 - Associated analysis files: [Zenodo record 10.5281/zenodo.22063022](https://doi.org/10.5281/zenodo.22063022)
-- Associated publication: DOI to be added upon publication
+- Associated preprint: [Ousset et al. (2026), bioRxiv](https://doi.org/10.64898/2026.09.04.747633); the manuscript is currently under peer review.
 
 ## Reproducibility notes
 
